@@ -179,7 +179,7 @@ a {
   background-color: #00000000;
   color: #ffdd59;
 }
-
+/*-----------------about uss  -------------------  */
 .about_us {
   display: flex;
   flex-direction: column;
@@ -240,6 +240,9 @@ a {
   font-family: 'Josefin Sans', sans-serif;
   line-height: 22px;
 }
+
+
+/* ------------services--------------- */
 .services {
   display: flex;
   flex-direction: column;
@@ -306,6 +309,9 @@ a {
   margin-bottom: 30px;
 }
 
+/* -------- contact us pageee-----------------*/
+
+
 .contact {
   background-image: linear-gradient(
       90deg,
@@ -371,6 +377,9 @@ a {
   /* color: #ffdd59; */
   color: #ffff;
 }
+
+
+/*----------------------------------- guards opion------------------------- */
 
 .guards {
   display: flex;
@@ -439,7 +448,7 @@ a {
   background-color: #00000000;
   /* color: #ffdd59; */
 }
-
+/*--------------------------------footer area------------------------------------  */
 .footer {
   display: flex;
   flex-direction: column;
@@ -486,7 +495,7 @@ a {
   color: #ffdd59;
 }
 
-/* responsive */
+/* -------------------------------responsive -----------------------------------------*/
 @media screen and (max-width: 1160px) {
   .nav {
     padding: 15px 100px;
